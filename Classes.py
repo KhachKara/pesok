@@ -1,6 +1,7 @@
 import datetime
 
-class User():
+
+class User:
     """
     A member of FriendFace. For now we are
     only storing their name and birthday.
@@ -10,7 +11,7 @@ class User():
 
     def __init__(self, full_name, birthday):
         self.name = full_name
-        self.birthday = birthday  # yyyymmdd
+        self.birthday = birthday   # yyyymmdd
 
         # Extract first and last names
         name_pieces = full_name.split(" ")

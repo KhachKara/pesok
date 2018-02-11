@@ -26,6 +26,7 @@ def fibonacci(n):
 
 
 for n in range(1, 51):
+    print(fibonacci(n))
     print(fibonacci(n+1) / fibonacci(n))
 
 # Golden ratio 1.618033988749895
