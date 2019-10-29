@@ -2,25 +2,685 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="972b8fc2-ca62-426c-80c0-a084b2fe2c0a" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/map_filter_reduce.py" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/количество_нулей.py" afterPath="$PROJECT_DIR$/количество_нулей.py" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/fontan-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Факториал-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bolt Hiring Event First Tour __ powered by HackerRank.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeForces/_Махмуд, Эхаб и игра в четное-нечетное.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeForces/_Очередной разворот подстроки.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeForces/_Переключение гравитации.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeForces/temp (DESKTOP-1CIJ177 conflicted copy 2019-10-11 21 36 43).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeForces/temp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeForces/Антон и занятия.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeForces/Антон и многогранники.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeForces/В поисках простой задачи.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeForces/Восстановление трех чисел.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeForces/Выиграть в лотерею.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeForces/Геннадий и карточная игра.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeForces/Любимые палиндромы.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeForces/Любовный треугольник (2).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeForces/Любовный треугольник.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeForces/Математика спешит на помощь.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeForces/Мишка и старший брат.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeForces/Неправильное вычитание.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeForces/Сережа и Дима.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeForces/Слишком длинные слова.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeForces/Таблица умножения.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeForces/Театральная площадь.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeForces/Фафа и его компания.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeForces/Халк.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HH_Задача 1. Пин-код.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HH_Задача 2. Небоскребы.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hackerran/Counting Valleys.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hackerran/Jumping on the Clouds.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hackerran/Library Fine.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontan.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontan.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/.ipynb_checkpoints/Untitled-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/.ipynb_checkpoints/парсинг Wordpress-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/Bitbucket.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/OlympTrade/01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/OlympTrade/login form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/.ipynb_checkpoints/Untitled-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/.ipynb_checkpoints/scarp pdf-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/Tele2-Details-2019-09-79773895866.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/Tele2-Details-2019-09-79773895866.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/Untitled.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/.coveragerc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/.ipynb_checkpoints/Untitled-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/CODE_OF_CONDUCT.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/CONTRIBUTING.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/HISTORY.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/MANIFEST.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/Tele2-Details-2019-09-79773895866.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/Untitled.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/camelot/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/camelot/__main__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/camelot/__version__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/camelot/cli.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/camelot/core.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/camelot/ext/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/camelot/ext/ghostscript/COPYING" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/camelot/ext/ghostscript/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/camelot/ext/ghostscript/_gsprint.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/camelot/handlers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/camelot/image_processing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/camelot/io.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/camelot/parsers/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/camelot/parsers/base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/camelot/parsers/lattice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/camelot/parsers/stream.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/camelot/plotting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/camelot/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/_static/camelot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/_static/csv/background_lines.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/_static/csv/foo.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/_static/csv/table_areas.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/_static/csv/table_regions.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/_static/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/_static/pdf/background_lines.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/_static/pdf/column_separators.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/_static/pdf/copy_text.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/_static/pdf/foo.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/_static/pdf/group_rows.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/_static/pdf/rotated.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/_static/pdf/short_lines.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/_static/pdf/superscript.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/_static/pdf/table_areas.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/_static/pdf/table_regions.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/_static/pdf/us-030.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/_static/png/background_lines.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/_static/png/camelot-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/_static/png/edge_tol_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/_static/png/edge_tol_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/_static/png/plot_contour.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/_static/png/plot_joint.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/_static/png/plot_line.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/_static/png/plot_table.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/_static/png/plot_text.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/_static/png/plot_textedge.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/_static/png/short_lines.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/_static/png/short_lines_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/_static/png/short_lines_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/_static/png/superscript.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/_static/png/table.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/_templates/hacks.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/_templates/sidebarintro.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/_templates/sidebarlogo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/_themes/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/_themes/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/_themes/flask_theme_support.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/api.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/benchmark/lattice/agstat/agstat-data-camelot-page-1-table-1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/benchmark/lattice/agstat/agstat-data-pdf-table-extract-page-1-table-1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/benchmark/lattice/agstat/agstat-data-pdfplumber.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/benchmark/lattice/agstat/agstat-data-pdftables-page-1-table-1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/benchmark/lattice/agstat/agstat-data-tabula.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/benchmark/lattice/agstat/agstat-table-detection-camelot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/benchmark/lattice/agstat/agstat-table-detection-tabula.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/benchmark/lattice/agstat/agstat.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/benchmark/lattice/background_lines_1/background_lines_1-data-camelot-page-1-table-1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/benchmark/lattice/background_lines_1/background_lines_1-data-camelot-page-1-table-2.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/benchmark/lattice/background_lines_1/background_lines_1-data-tabula.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/benchmark/lattice/background_lines_1/background_lines_1-table-detection-camelot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/benchmark/lattice/background_lines_1/background_lines_1-table-detection-tabula.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/benchmark/lattice/background_lines_1/background_lines_1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/benchmark/lattice/background_lines_2/background_lines_2-data-camelot-page-1-table-1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/benchmark/lattice/background_lines_2/background_lines_2-data-tabula.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/benchmark/lattice/background_lines_2/background_lines_2-table-detection-camelot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/benchmark/lattice/background_lines_2/background_lines_2-table-detection-tabula.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/benchmark/lattice/background_lines_2/background_lines_2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/benchmark/lattice/column_span_1/column_span_1-data-camelot-page-1-table-1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/benchmark/lattice/column_span_1/column_span_1-data-pdf-table-extract-page-1-table-1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/benchmark/lattice/column_span_1/column_span_1-data-pdfplumber.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/benchmark/lattice/column_span_1/column_span_1-data-pdftables-page-1-table-1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/benchmark/lattice/column_span_1/column_span_1-data-tabula.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/benchmark/lattice/column_span_1/column_span_1-table-detection-camelot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/benchmark/lattice/column_span_1/column_span_1-table-detection-tabula.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/benchmark/lattice/column_span_1/column_span_1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/benchmark/lattice/column_span_2/column_span_2-data-camelot-page-1-table-1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/benchmark/lattice/column_span_2/column_span_2-data-tabula.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/benchmark/lattice/column_span_2/column_span_2-table-detection-camelot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/benchmark/lattice/column_span_2/column_span_2-table-detection-tabula.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/benchmark/lattice/column_span_2/column_span_2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/benchmark/lattice/electoral_roll/electoral_roll-data-camelot-page-1-table-1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/benchmark/lattice/electoral_roll/electoral_roll-data-tabula.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/benchmark/lattice/electoral_roll/electoral_roll-table-detection-camelot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/benchmark/lattice/electoral_roll/electoral_roll-table-detection-tabula.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/benchmark/lattice/electoral_roll/electoral_roll.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/benchmark/lattice/rotated/rotated-data-camelot-page-1-table-1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/benchmark/lattice/rotated/rotated-data-pdf-table-extract-page-1-table-1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/benchmark/lattice/rotated/rotated-data-pdfplumber.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/benchmark/lattice/rotated/rotated-data-pdftables-page-1-table-1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/benchmark/lattice/rotated/rotated-data-tabula.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/benchmark/lattice/rotated/rotated-table-detection-camelot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/benchmark/lattice/rotated/rotated-table-detection-tabula.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/benchmark/lattice/rotated/rotated.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/benchmark/lattice/row_span/row_span-data-camelot-page-1-table-1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/benchmark/lattice/row_span/row_span-data-tabula.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/benchmark/lattice/row_span/row_span-table-detection-camelot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/benchmark/lattice/row_span/row_span-table-detection-tabula.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/benchmark/lattice/row_span/row_span.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/benchmark/lattice/twotables_1/twotables_1-data-camelot-page-1-table-1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/benchmark/lattice/twotables_1/twotables_1-data-camelot-page-1-table-2.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/benchmark/lattice/twotables_1/twotables_1-data-pdf-table-extract-page-1-table-1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/benchmark/lattice/twotables_1/twotables_1-data-pdfplumber.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/benchmark/lattice/twotables_1/twotables_1-data-pdftables-page-1-table-1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/benchmark/lattice/twotables_1/twotables_1-data-tabula.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/benchmark/lattice/twotables_1/twotables_1-table-detection-camelot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/benchmark/lattice/twotables_1/twotables_1-table-detection-tabula.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/benchmark/lattice/twotables_1/twotables_1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/benchmark/lattice/twotables_2/twotables_2-data-camelot-page-1-table-1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/benchmark/lattice/twotables_2/twotables_2-data-camelot-page-1-table-2.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/benchmark/lattice/twotables_2/twotables_2-data-pdf-table-extract-page-1-table-1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/benchmark/lattice/twotables_2/twotables_2-data-pdfplumber.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/benchmark/lattice/twotables_2/twotables_2-data-pdftables-page-1-table-1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/benchmark/lattice/twotables_2/twotables_2-table-detection-camelot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/benchmark/lattice/twotables_2/twotables_2-table-detection-tabula.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/benchmark/lattice/twotables_2/twotables_2-tabula-0.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/benchmark/lattice/twotables_2/twotables_2-tabula-1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/benchmark/lattice/twotables_2/twotables_2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/benchmark/stream/12s0324/12s0324-data-camelot-page-1-table-1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/benchmark/stream/12s0324/12s0324-data-camelot-page-1-table-2.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/benchmark/stream/12s0324/12s0324-data-tabula-0.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/benchmark/stream/12s0324/12s0324-data-tabula-1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/benchmark/stream/12s0324/12s0324.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/benchmark/stream/birdisland/birdisland-data-camelot-page-1-table-1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/benchmark/stream/birdisland/birdisland-data-camelot-page-1-table-2.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/benchmark/stream/birdisland/birdisland-data-tabula.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/benchmark/stream/birdisland/birdisland.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/benchmark/stream/budget/budget-data-camelot-page-1-table-1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/benchmark/stream/budget/budget-data-pdf-table-extract-page-1-table-1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/benchmark/stream/budget/budget-data-pdftables-page-1-table-1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/benchmark/stream/budget/budget-data-tabula.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/benchmark/stream/budget/budget.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/benchmark/stream/district_health/district_health-data-camelot-page-1-table-1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/benchmark/stream/district_health/district_health-data-pdf-table-extract-page-1-table-1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/benchmark/stream/district_health/district_health-data-pdfplumber.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/benchmark/stream/district_health/district_health-data-pdftables-page-1-table-1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/benchmark/stream/district_health/district_health-data-tabula.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/benchmark/stream/district_health/district_health.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/benchmark/stream/health/health-data-camelot-page-1-table-1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/benchmark/stream/health/health-data-pdf-table-extract-page-1-table-1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/benchmark/stream/health/health-data-pdfplumber.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/benchmark/stream/health/health-data-pdftables-page-1-table-1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/benchmark/stream/health/health-data-tabula.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/benchmark/stream/health/health.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/benchmark/stream/m27/m27-data-camelot-page-1-table-1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/benchmark/stream/m27/m27-data-tabula-0.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/benchmark/stream/m27/m27.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/benchmark/stream/mexican_towns/mexican_towns-data-camelot-page-1-table-1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/benchmark/stream/mexican_towns/mexican_towns-data-pdf-table-extract-page-1-table-1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/benchmark/stream/mexican_towns/mexican_towns-data-pdftables-page-1-table-1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/benchmark/stream/mexican_towns/mexican_towns-data-tabula.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/benchmark/stream/mexican_towns/mexican_towns.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/benchmark/stream/missing_values/missing_values-data-camelot-page-1-table-1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/benchmark/stream/missing_values/missing_values-data-pdf-table-extract-page-1-table-1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/benchmark/stream/missing_values/missing_values-data-pdfplumber.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/benchmark/stream/missing_values/missing_values-data-pdftables-page-1-table-1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/benchmark/stream/missing_values/missing_values-data-tabula.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/benchmark/stream/missing_values/missing_values.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/benchmark/stream/population_growth/population_growth-data-camelot-page-1-table-1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/benchmark/stream/population_growth/population_growth-data-tabula.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/benchmark/stream/population_growth/population_growth.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/benchmark/stream/superscript/superscript-data-camelot-page-1-table-1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/benchmark/stream/superscript/superscript-data-tabula.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/benchmark/stream/superscript/superscript.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/benchmark/stream/us-007/us-007-data-camelot-page-1-table-1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/benchmark/stream/us-007/us-007-data-tabula.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/benchmark/stream/us-007/us-007.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/conf.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/dev/contributing.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/index.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/make.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/user/advanced.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/user/cli.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/user/how-it-works.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/user/install-deps.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/user/install.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/user/intro.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/docs/user/quickstart.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/setup.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/setup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/agstat.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/anticlockwise_table_1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/anticlockwise_table_2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/assam.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/background_lines_1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/background_lines_2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/baseline_plots/test_contour_plot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/baseline_plots/test_grid_plot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/baseline_plots/test_joint_plot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/baseline_plots/test_lattice_contour_plot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/baseline_plots/test_line_plot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/baseline_plots/test_stream_contour_plot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/baseline_plots/test_text_plot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/baseline_plots/test_textedge_plot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/blank.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/budget.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/budget_2014-15.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/clockwise_table_1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/clockwise_table_2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/column_span_1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/column_span_2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/detect_vertical_false.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/district_health.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/edge_tol.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/electoral_roll.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/foo.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/foo.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/health.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/health_protected.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/image.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/medicine.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/mexican_towns.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/missing_values.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/population_growth.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/rainfall_distribution.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/row_span_1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/row_span_2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/row_span_3.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/superscript.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/table_region.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tableception.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/12s0324.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/20.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/S2MNCEbirdisland.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/arabic.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/argentina_diputados_voting_record.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/campaign_donors.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/china.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/eu-002.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/eu-017.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/failing_sort.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/frx_2012_disclosure.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-eu/eu-001-reg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-eu/eu-001-str.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-eu/eu-001.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-eu/eu-001.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-eu/eu-002-reg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-eu/eu-002-str.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-eu/eu-002.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-eu/eu-002.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-eu/eu-003-reg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-eu/eu-003-str.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-eu/eu-003.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-eu/eu-003.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-eu/eu-004-reg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-eu/eu-004-str.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-eu/eu-004.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-eu/eu-004.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-eu/eu-005-reg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-eu/eu-005-str.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-eu/eu-005.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-eu/eu-005.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-eu/eu-006-reg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-eu/eu-006-str.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-eu/eu-006.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-eu/eu-006.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-eu/eu-007-reg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-eu/eu-007-str.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-eu/eu-007.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-eu/eu-007.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-eu/eu-008-reg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-eu/eu-008-str.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-eu/eu-008.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-eu/eu-008.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-eu/eu-009a-reg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-eu/eu-009a-str.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-eu/eu-009a.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-eu/eu-009a.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-eu/eu-009b-reg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-eu/eu-009b-str.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-eu/eu-010-reg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-eu/eu-010-str.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-eu/eu-010.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-eu/eu-010.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-eu/eu-011-reg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-eu/eu-011-str.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-eu/eu-011.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-eu/eu-011.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-eu/eu-012-reg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-eu/eu-012-str.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-eu/eu-012.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-eu/eu-012.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-eu/eu-013-reg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-eu/eu-013-str.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-eu/eu-013.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-eu/eu-013.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-eu/eu-014-reg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-eu/eu-014-str.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-eu/eu-014.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-eu/eu-014.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-eu/eu-015-reg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-eu/eu-015-str.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-eu/eu-015.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-eu/eu-015.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-eu/eu-016-reg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-eu/eu-016-str.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-eu/eu-016.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-eu/eu-016.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-eu/eu-017-reg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-eu/eu-017-str.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-eu/eu-017.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-eu/eu-017.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-eu/eu-018-reg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-eu/eu-018-str.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-eu/eu-018.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-eu/eu-018.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-eu/eu-019-reg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-eu/eu-019-str.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-eu/eu-019.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-eu/eu-019.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-eu/eu-020-reg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-eu/eu-020-str.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-eu/eu-020.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-eu/eu-020.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-eu/eu-021-reg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-eu/eu-021-str.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-eu/eu-021.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-eu/eu-021.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-eu/eu-022-reg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-eu/eu-022-str.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-eu/eu-022.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-eu/eu-022.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-eu/eu-023-reg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-eu/eu-023-str.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-eu/eu-023.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-eu/eu-023.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-eu/eu-024-reg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-eu/eu-024-str.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-eu/eu-024.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-eu/eu-024.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-eu/eu-025-reg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-eu/eu-025-str.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-eu/eu-025.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-eu/eu-025.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-eu/eu-026-reg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-eu/eu-026-str.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-eu/eu-026.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-eu/eu-026.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-eu/eu-027-reg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-eu/eu-027-str.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-eu/eu-027.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-eu/eu-027.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-001-reg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-001-str.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-001.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-001.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-002-reg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-002-str.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-002.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-002.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-003-reg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-003-str.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-003.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-003.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-004-reg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-004-str.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-004.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-004.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-005-reg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-005-str.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-005.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-005.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-006-reg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-006-str.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-006.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-006.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-007-reg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-007-str.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-007.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-007.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-008-reg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-008-str.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-008.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-008.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-009-reg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-009-str.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-009.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-009.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-010-reg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-010-str.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-010.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-010.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-011a-reg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-011a-str.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-011a.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-011a.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-011b-reg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-011b-str.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-012-reg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-012-str.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-012.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-012.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-013-reg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-013-str.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-013.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-013.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-014-reg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-014-str.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-014.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-014.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-015-reg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-015-str.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-015.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-015.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-016-reg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-016-str.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-016.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-016.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-017-reg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-017-str.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-017.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-017.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-018-reg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-018-str.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-018.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-018.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-019-reg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-019-str.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-019.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-019.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-020-reg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-020-str.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-020.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-020.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-021-reg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-021-str.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-021.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-021.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-022-reg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-022-str.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-022.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-022.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-023-reg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-023-str.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-023.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-023.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-024-reg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-024-str.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-024.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-024.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-025-reg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-025-str.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-025.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-025.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-026-reg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-026-str.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-026.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-026.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-027-reg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-027-str.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-027.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-027.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-028-reg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-028-str.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-028.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-028.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-029-reg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-029-str.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-029.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-029.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-030-reg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-030-str.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-030.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-030.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-031a-reg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-031a-str.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-031a.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-031a.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-031b-reg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-031b-str.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-032-reg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-032-str.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-032.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-032.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-033-reg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-033-str.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-033.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-033.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-034-reg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-034-str.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-034.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-034.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-035a-reg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-035a-str.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-035a.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-035a.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-035b-reg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-035b-str.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-036-reg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-036-str.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-036.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-036.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-037-reg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-037-str.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-037.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-037.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-038-reg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-038-str.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-038.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-038.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-039-reg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-039-str.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-039.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-039.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-040-reg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-040-str.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-040.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/us-040.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/indictb1h_14.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/labor.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/m27.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/mednine.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/offense.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/puertos1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/rotated_page.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/schools.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/should_detect_rulings.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/sort_exception.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/spanning_cells.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/spreadsheet_no_bounding_frame.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/sydney_disclosure_contract.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/twotables.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/us-007.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/us-017.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/tabula/us-024.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/twotables_1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/files/twotables_2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/test_cli.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/test_common.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/test_errors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/camelot-0.7.2/tests/test_plotting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/disease_outbreaks_camelot.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/pdf_scarping.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/PDF/scarp pdf.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/Untitled.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/cmc_.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/coinmarketcap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/facebook parsing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/main1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/main2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/my.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/plugins.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/парсинг Wordpress.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Матрица/m-01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Матрица/m-02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Матрица/m-03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Матрица/m-04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Матрица/m-05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Матрица/m-06.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Матрица/m-07.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Матрица/m-08.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Матрица/m-09.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Матрица/m-10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Матрица/m-11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Матрица/m-12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Матрица/m-16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Матрица/Матрица.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Небоскребы.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Факториал.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/небоскребы.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/песочница.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/песочница.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp.py" beforeDir="false" afterPath="$PROJECT_DIR$/temp.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="997443951">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.62" value="1" />
+          <entry key="project.open.time.63" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="42" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="42" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="lambda_sort.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lambda_sort.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/temp.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="51">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Дискретная математика для программистов/Алгоритм Прима.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="116">
+              <caret line="4" column="17" lean-forward="true" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -56,6 +716,7 @@
         <option value="$PROJECT_DIR$/количество_нулей.py" />
         <option value="$PROJECT_DIR$/map_filter_reduce.py" />
         <option value="$PROJECT_DIR$/lambda.py" />
+        <option value="$PROJECT_DIR$/Дискретная математика для программистов/Алгоритм Прима.py" />
       </list>
     </option>
   </component>
@@ -66,21 +727,10 @@
     <option name="height" value="876" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-      <manualOrder />
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -92,13 +742,14 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
+      <pane id="Course" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="add_unversioned_files" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
-    <property name="add_unversioned_files" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -112,26 +763,30 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.lambda">
-    <configuration name="Random" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Алгоритм Прима">
+    <configuration name="Алгоритм Прима" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="песочница" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Дискретная математика для программистов" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="песочница" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Random.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Дискретная математика для программистов/Алгоритм Прима.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <configuration name="количество_нулей" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="песочница" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -142,14 +797,17 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="песочница" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/количество_нулей.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <configuration name="lambda" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="песочница" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -160,14 +818,17 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="песочница" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lambda.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <configuration name="map_filter_reduce" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="песочница" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -178,14 +839,17 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="песочница" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/map_filter_reduce.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <configuration name="reading_html" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="песочница" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -196,95 +860,45 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="песочница" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/reading_html.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="песочница" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
-    <configuration default="true" type="Tox" factoryName="Tox">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="песочница" />
-      <method />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Doctests">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="песочница" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <method />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <configuration default="true" type="tests" factoryName="Unittests">
+      <module name="песочница" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs />
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="песочница" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;.&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
     </configuration>
-    <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.Random" />
-      <item index="1" class="java.lang.String" itemvalue="Python.reading_html" />
-      <item index="2" class="java.lang.String" itemvalue="Python.количество_нулей" />
-      <item index="3" class="java.lang.String" itemvalue="Python.map_filter_reduce" />
-      <item index="4" class="java.lang.String" itemvalue="Python.lambda" />
+    <list>
+      <item itemvalue="Python.reading_html" />
+      <item itemvalue="Python.количество_нулей" />
+      <item itemvalue="Python.map_filter_reduce" />
+      <item itemvalue="Python.lambda" />
+      <item itemvalue="Python.Алгоритм Прима" />
     </list>
     <recent_temporary>
-      <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.lambda" />
-        <item index="1" class="java.lang.String" itemvalue="Python.map_filter_reduce" />
-        <item index="2" class="java.lang.String" itemvalue="Python.количество_нулей" />
-        <item index="3" class="java.lang.String" itemvalue="Python.reading_html" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Random" />
+      <list>
+        <item itemvalue="Python.Алгоритм Прима" />
+        <item itemvalue="Python.lambda" />
+        <item itemvalue="Python.map_filter_reduce" />
+        <item itemvalue="Python.количество_нулей" />
+        <item itemvalue="Python.reading_html" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -318,24 +932,24 @@
     <frame x="-8" y="32" width="1616" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.10329531" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2311828" sideWeight="0.5028653" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34864864" sideWeight="0.49713466" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972974" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22446236" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34324324" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.10329531" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49713466" weight="0.19844358" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.34324324" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32972974" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5028653" side_tool="true" weight="0.2311828" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.22446236" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Data View" order="3" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -359,238 +973,51 @@
           <option name="timeStamp" value="10" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="11" />
     </breakpoint-manager>
-    <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/task-2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/task-3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="875">
-          <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PrimeNumbers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/parsing_web.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" column="16" lean-forward="false" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/temp.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="9" column="9" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/task-1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" column="24" lean-forward="false" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/task-2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PrimeNumbers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="14" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/task-3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="875">
-          <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/task-1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" column="24" lean-forward="false" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/task-2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PrimeNumbers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/task-3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/task-1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="24" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/task-2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/task-3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" column="13" lean-forward="true" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/task-1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" column="6" lean-forward="false" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/task-2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/temp.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/task-3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="850">
-          <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/task-1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" column="6" lean-forward="false" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/task-2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/temp.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/task-3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="850">
-          <caret line="34" column="0" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+        <state>
+          <caret column="6" selection-start-column="6" selection-end-column="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://C:/Python36/Lib/urllib/parse.py" />
     <entry file="file://C:/Python36/Lib/codecs.py" />
     <entry file="file://C:/Python36/Lib/multiprocessing/__init__.py" />
-    <entry file="file://$PROJECT_DIR$/temp.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/parsing_web.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
-          <caret line="19" column="4" lean-forward="false" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
+          <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/task-3.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="875">
-          <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
-          <folding />
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/task-2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
-          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/task-1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="183">
-          <caret line="11" column="24" lean-forward="false" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Cartesian Product.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
@@ -604,72 +1031,52 @@
     <entry file="file://$PROJECT_DIR$/dict_sort.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="297">
-          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Fibonacci.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
-          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/Python36-32/Lib/logging/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Khach-log.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://C:/Python36-32/Lib/logging/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/Khach-log.txt" />
     <entry file="file://$PROJECT_DIR$/Logging.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="530">
-          <caret line="31" column="33" lean-forward="false" selection-start-line="31" selection-start-column="33" selection-end-line="31" selection-end-column="33" />
+          <caret line="31" column="33" selection-start-line="31" selection-start-column="33" selection-end-line="31" selection-end-column="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MonteCarlo.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-132">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
+        <state relative-caret-position="-132" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/PrimeNumbers.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
-          <caret line="7" column="12" lean-forward="false" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
-          <folding />
+          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Random.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/reading_html.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/количество_нулей.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-46">
-          <caret line="5" column="19" lean-forward="false" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
         </state>
       </provider>
     </entry>
@@ -679,26 +1086,23 @@
     <entry file="file://$PROJECT_DIR$/map_filter_reduce.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-191">
-          <caret line="23" column="15" lean-forward="false" selection-start-line="23" selection-start-column="15" selection-end-line="23" selection-end-column="15" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
+          <caret line="23" column="15" selection-start-line="23" selection-start-column="15" selection-end-line="23" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lambda.py">
+    <entry file="file://$PROJECT_DIR$/lambda.py" />
+    <entry file="file://$PROJECT_DIR$/lambda_sort.py" />
+    <entry file="file://$PROJECT_DIR$/temp.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lambda_sort.py">
+    <entry file="file://$PROJECT_DIR$/Дискретная математика для программистов/Алгоритм Прима.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="116">
+          <caret line="4" column="17" lean-forward="true" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
         </state>
       </provider>
     </entry>
