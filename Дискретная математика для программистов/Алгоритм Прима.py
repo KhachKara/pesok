@@ -12,5 +12,5 @@ for i in range(N):
             u = j 
     ans += min_dist
     used[u] = True 
-    for v in range(N): 
-        dist[v] = min(dist[v], W[u][v])
+    # for v in range(N):
+    #     dist[v] = min(dist[v], W[u][v])

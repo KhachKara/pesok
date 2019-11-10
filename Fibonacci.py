@@ -11,11 +11,9 @@ def fibonacci(n):
         raise ValueError("n must be a positive int")
 
     # Compute the Nth term
-    if n == 1:
+    if n == 1 or n == 2:
         return 1
-    elif n == 2:
-        return 1
-    elif n > 2:
+    else:
         return fibonacci(n-1) + fibonacci(n - 2)
 
 
