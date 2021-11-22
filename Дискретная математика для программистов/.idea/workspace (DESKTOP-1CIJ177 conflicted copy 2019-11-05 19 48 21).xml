@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="83ae5ee4-a0fb-4a55-b2a5-1f72e1147c50" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../CodeForces/Диофантово уравнение.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeForces/Общий делитель.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Karapetian.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/khach.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Дискретная математика для программистов.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/1-1b-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1-1d.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1-1e.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1-1f.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlogoritmPrim.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/Activate.ps1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/activate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/activate.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/deactivate.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/python.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/pythonw.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/pyvenv.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/конь.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/inspectionProfiles/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.ipynb_checkpoints/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeForces/.disko1.disko1.disko1.disko1.disko1.disko1Геннадий и карточная игра.py.71965.ddwnld.71965.ddwnld.71965.ddwnld.71965.ddwnld.71965.ddwnld.71965.ddwnld" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeForces/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hackerran/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SQL/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parsing/.ipynb_checkpoints/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parsing/OlympTrade/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parsing/PDF/.ipynb_checkpoints/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parsing/PDF/camelot-0.7.2/.ipynb_checkpoints/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parsing/PDF/camelot-0.7.2/camelot/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parsing/PDF/camelot-0.7.2/camelot/ext/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parsing/PDF/camelot-0.7.2/camelot/ext/ghostscript/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parsing/PDF/camelot-0.7.2/camelot/parsers/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parsing/PDF/camelot-0.7.2/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parsing/PDF/camelot-0.7.2/docs/_static/csv/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parsing/PDF/camelot-0.7.2/docs/_static/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parsing/PDF/camelot-0.7.2/docs/_static/pdf/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parsing/PDF/camelot-0.7.2/docs/_static/png/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parsing/PDF/camelot-0.7.2/docs/_templates/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parsing/PDF/camelot-0.7.2/docs/_themes/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parsing/PDF/camelot-0.7.2/docs/benchmark/lattice/agstat/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parsing/PDF/camelot-0.7.2/docs/benchmark/lattice/background_lines_1/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parsing/PDF/camelot-0.7.2/docs/benchmark/lattice/background_lines_2/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parsing/PDF/camelot-0.7.2/docs/benchmark/lattice/column_span_1/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parsing/PDF/camelot-0.7.2/docs/benchmark/lattice/column_span_2/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parsing/PDF/camelot-0.7.2/docs/benchmark/lattice/electoral_roll/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parsing/PDF/camelot-0.7.2/docs/benchmark/lattice/rotated/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parsing/PDF/camelot-0.7.2/docs/benchmark/lattice/row_span/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parsing/PDF/camelot-0.7.2/docs/benchmark/lattice/twotables_1/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parsing/PDF/camelot-0.7.2/docs/benchmark/lattice/twotables_2/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parsing/PDF/camelot-0.7.2/docs/benchmark/stream/12s0324/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parsing/PDF/camelot-0.7.2/docs/benchmark/stream/birdisland/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parsing/PDF/camelot-0.7.2/docs/benchmark/stream/budget/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parsing/PDF/camelot-0.7.2/docs/benchmark/stream/district_health/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parsing/PDF/camelot-0.7.2/docs/benchmark/stream/health/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parsing/PDF/camelot-0.7.2/docs/benchmark/stream/m27/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parsing/PDF/camelot-0.7.2/docs/benchmark/stream/mexican_towns/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parsing/PDF/camelot-0.7.2/docs/benchmark/stream/missing_values/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parsing/PDF/camelot-0.7.2/docs/benchmark/stream/population_growth/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parsing/PDF/camelot-0.7.2/docs/benchmark/stream/superscript/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parsing/PDF/camelot-0.7.2/docs/benchmark/stream/us-007/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parsing/PDF/camelot-0.7.2/docs/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parsing/PDF/camelot-0.7.2/docs/dev/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parsing/PDF/camelot-0.7.2/docs/user/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parsing/PDF/camelot-0.7.2/tests/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parsing/PDF/camelot-0.7.2/tests/files/baseline_plots/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parsing/PDF/camelot-0.7.2/tests/files/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parsing/PDF/camelot-0.7.2/tests/files/tabula/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-eu/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parsing/PDF/camelot-0.7.2/tests/files/tabula/icdar2013-dataset/competition-dataset-us/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parsing/PDF/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parsing/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.disko1R_Khaggarti_-_Diskretnaya_matematika_dlya_program.pdf.75238.ddwnld" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/R_Khaggarti_-_Diskretnaya_matematika_dlya_program.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/R_Khaggarti_-_Diskretnaya_matematika_dlya_program.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Алгоритм Прима.py" beforeDir="false" afterPath="$PROJECT_DIR$/Алгоритм Прима.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Обход графа в ширину.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Обход графа в ширину.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/таблица 1-1.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/таблица 1-1.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Матрица/desktop.ini" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1SyFnlNRp8mdFYCQJZVy7h05IGN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/1-1f.py" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="temp" type="PythonConfigurationType" factoryName="Python">
+      <module name="Дискретная математика для программистов" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\khach\Anaconda3-64\envs\Дискретная математика для программистов\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1-1f.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="83ae5ee4-a0fb-4a55-b2a5-1f72e1147c50" name="Default Changelist" comment="" />
+      <created>1572528097989</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572528097989</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1-1c.py</url>
+          <line>45</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1-1f.py</url>
+          <line>45</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="new_graph" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
